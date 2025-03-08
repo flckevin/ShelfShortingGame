@@ -1,0 +1,111 @@
+{
+"jsonShelves_Grp":
+    [
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[6,4,5]},
+                {"itemGroup":[2,4,-1]},
+                {"itemGroup":[1,1,-1]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":1
+            
+        },
+        
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[4,-1,4]},
+                {"itemGroup":[5,4,2]},
+                {"itemGroup":[0,0,3]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":2
+            
+        },
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[6,5,6]},
+                {"itemGroup":[3,2,4]},
+                {"itemGroup":[1,3,0]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":3
+            
+        },
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[2,2,0]},
+                {"itemGroup":[6,0,5]},
+                {"itemGroup":[0,5,0]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":4
+            
+        },
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[4,4,-1]},
+                {"itemGroup":[6,5,6]},
+                {"itemGroup":[1,3,1]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":5
+            
+        },
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[4,3,2]},
+                {"itemGroup":[0,0,-1]},
+                {"itemGroup":[-1,3,1]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":6
+            
+        }
+    ],
+    
+    
+"mapData":
+    [
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[1,2,3]},
+        {"mapXPos":[4,5,6]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]}
+    ]
+}
+

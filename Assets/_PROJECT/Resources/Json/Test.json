@@ -1,0 +1,51 @@
+{
+"jsonShelves_Grp":
+    [
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[2,1,2]},
+                {"itemGroup":[6,6,0]},
+                {"itemGroup":[5,5,2]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":5
+            
+        },
+        {
+            "shelveSlot": 3,
+            "shelveItemsGroup":
+            [
+                {"itemGroup":[1,0,1]},
+                {"itemGroup":[2,3,5]},
+                {"itemGroup":[3,3,5]}
+            ],
+
+            "moveAble": false,
+            "moveSpeed": 0,
+            
+            "shelveID":6
+            
+        }
+
+    ],
+    
+    
+"mapData":
+    [
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]},
+        {"mapXPos":[0,0,0]}
+    ]
+}
+
